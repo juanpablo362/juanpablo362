@@ -18,7 +18,7 @@ Soy un desarrollador web especializado en .NET y tecnologías como JavaScript y 
 
 ### 📬 Contáctame:
 - [LinkedIn](https://linkedin.com/in/juanpablo362)
-- [Correo]: juanpablomoralesrivera5@gmail.com
+- Correo: juanpablomoralesrivera5@gmail.com
 
 ### 📊 Mis Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
