@@ -6,7 +6,7 @@ Soy un desarrollador web especializado en .NET y tecnologías como JavaScript y 
 
 ### 🔧 Tecnologías y Herramientas:
 - **Lenguajes**: C#, JavaScript, SQL
-- **Frameworks**: ASP.NET Core, React, Angular
+- **Frameworks**: ASP.NET Core, Angular
 - **Base de Datos**: SQL Server, MySQL, postgreSQL
 - **Herramientas**: Git, Docker, jira, Nginx
 
